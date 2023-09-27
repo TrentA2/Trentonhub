@@ -1,0 +1,44 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+
+p{
+color: red
+}
+
+.note {
+font-size: 20px;
+}
+
+#id-selector-demo {
+  color: green;
+}
+
+li[value="4"] {
+color: blue
+}
+
+h1{
+text-align: left;
+font-family:sans-serif,;
+}
+
+h2{
+text-align: left;
+font-family: sans-serif,;
+font-size: medium;
+}
+
+#test{
+  color: brown;
+  text-align: right;
+}
+
+*{
+  background-color:gainsboro ;
+}
+
